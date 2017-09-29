@@ -17,6 +17,8 @@ namespace _2ndGitApp
 
             // DAS IST BRANCH AGNES!
 
+            //ist das ein konflikt?? 
+
             //Wir machen einen Konflikt
         }
     }
