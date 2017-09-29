@@ -12,6 +12,8 @@ namespace _2ndGitApp
         {
             //Ein Beispiel für ein Change
             // Noch ein Beispiel für ein Change
+
+            // HALLO KATHRIN !!!! :) 
         }
     }
 }
